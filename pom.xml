@@ -4,9 +4,9 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <modelVersion>4.0.0</modelVersion>
     <groupId>demo</groupId>
-    <artifactId>antipatterns-deadcode-1</artifactId>
+    <artifactId>antipatterns-deadcode-2</artifactId>
     <version>1.0</version>
-    <name>antipatterns-deadcode-1</name>
+    <name>antipatterns-deadcode-2</name>
     <description></description>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
